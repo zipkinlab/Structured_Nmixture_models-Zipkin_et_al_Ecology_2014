@@ -1,5 +1,5 @@
 # Zipkin_et_al_Ecology_2014
-Zipkin E.F., Thorson J.T., See K., Lynch H.J., Grant E.H.C., Kanno Y., Chandler R.B., Letcher B.H., and Royle J.A. 2014. Modeling structured population dynamics using data from unmarked individuals. Ecology. 95: 22-29.
+*Zipkin E.F., Thorson J.T., See K., Lynch H.J., Grant E.H.C., Kanno Y., Chandler R.B., Letcher B.H., and Royle J.A. 2014. Modeling structured population dynamics using data from unmarked individuals. Ecology. 95: 22-29.*
 
 These data and scripts are associated with Zipkin et al. 2014 Ecology.
 
