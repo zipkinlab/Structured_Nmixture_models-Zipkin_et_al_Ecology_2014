@@ -3,12 +3,12 @@
 
 These data and scripts are associated with Zipkin et al. 2014 Ecology.
 
-Data:
+**Data:**
 
 saldata.aggregated_A.csv - Adult salamander counts for 21 sites from 2005-2011, with two sampling events per year
 saldata.aggregated_J.csv - Juvenile salamander counts for 21 sites from 2005-2011, with two sampling events per year
 
-Code:
+**Code:**
 
 Wrapper R code_salamander application.R - Start with this file. This code reads and formats the data and then fits a structured Dail-Madsen model using the associated JAGS code "JAGS code_salamander application.R". The code produces a summary of the parameter estimates for the model and model diagnostics (e.g., traceplots and R-hat statisic).
 
