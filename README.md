@@ -3,7 +3,7 @@
 
 These data and scripts are associated with Zipkin et al. 2014 Ecology.
 
-**Data:**
+*Data:*
 
 saldata.aggregated_A.csv - Adult salamander counts for 21 sites from 2005-2011, with two sampling events per year
 saldata.aggregated_J.csv - Juvenile salamander counts for 21 sites from 2005-2011, with two sampling events per year
