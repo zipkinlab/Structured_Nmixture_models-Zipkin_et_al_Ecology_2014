@@ -5,8 +5,6 @@
 The study of population dynamics requires unbiased, precise estimates of abundance and vital rates that account for the demographic structure inherent in all wildlife and plant populations. Traditionally, these estimates have only been available through approaches that rely on intensive mark–recapture data. We extended recently developed N-mixture models to demonstrate how demographic parameters and abundance can be estimated for structured populations using only stage-structured count data. Our modeling framework can be used to make reliable inferences on abundance as well as recruitment, immigration, stage-specific survival, and detection rates during sampling. We present a range of simulations to illustrate the data requirements, including the number of years and locations necessary for accurate and precise parameter estimates. We apply our modeling framework to a population of northern dusky salamanders (Desmognathus fuscus) in the mid-Atlantic region (USA) and find that the population is unexpectedly declining. Our approach represents a valuable advance in the estimation of population dynamics using multistate data from unmarked individuals and should additionally be useful in the development of integrated models that combine data from intensive (e.g., mark–recapture) and extensive (e.g., counts) data sources.
 
 
-These data and scripts are associated with Zipkin et al. 2014 Ecology.
-
 ## **Data:**
 
 saldata.aggregated_A.csv - Adult salamander counts for 21 sites from 2005-2011, with two sampling events per year
