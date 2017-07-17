@@ -1,4 +1,4 @@
-# Strcutred N-mixture model: Zipkin_et_al_Ecology_2014
+# Structured N-mixture model: Zipkin_et_al_Ecology_2014
 *Zipkin E.F., Thorson J.T., See K., Lynch H.J., Grant E.H.C., Kanno Y., Chandler R.B., Letcher B.H., and Royle J.A. 2014. Modeling structured population dynamics using data from unmarked individuals. Ecology. 95: 22-29.*
 
 ## Abstract
